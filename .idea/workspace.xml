@@ -6,8 +6,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49b1682b-5ed8-4b48-b8a0-75284a4677fb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/LeetCode200.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LeetCode100.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode100.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,52 +26,32 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DP.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="971">
-              <caret line="118" column="9" lean-forward="true" selection-start-line="118" selection-start-column="9" selection-end-line="118" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LeetCode100.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="2280" lean-forward="true" selection-start-line="2280" selection-end-line="2280" />
+            <state relative-caret-position="506">
+              <caret line="142" column="16" lean-forward="true" selection-start-line="142" selection-start-column="16" selection-end-line="142" selection-end-column="16" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#55971#56843#0" />
-                <element signature="e#56849#57332#0" />
-                <element signature="e#57763#58460#0" />
-                <element signature="e#58466#59028#0" />
-                <element signature="e#59034#59584#0" />
-                <element signature="e#59590#60150#0" />
-                <element signature="e#60156#60650#0" />
-                <element signature="e#60656#60878#0" />
-                <element signature="e#60936#61174#0" />
-                <element signature="e#61180#61707#0" />
-                <element signature="e#61713#62562#0" />
-                <element signature="e#62568#63122#0" />
-                <element signature="e#63128#63308#0" />
-                <element signature="e#63314#63864#0" />
-                <element signature="e#63869#64051#0" />
-                <element signature="e#64056#64270#0" />
-                <element signature="e#64275#64440#0" />
-                <element signature="e#64446#65528#0" />
-                <element signature="e#64629#64691#1" />
-                <element signature="e#64728#65500#1" />
-                <element signature="e#65617#65993#0" />
-                <element signature="e#65999#66965#0" />
-                <element signature="e#66972#67308#0" />
-                <element signature="e#67113#67122#0" expanded="true" />
-                <element signature="e#67313#67513#0" />
+                <element signature="e#86#542#0" />
+                <element signature="e#548#1495#0" />
+                <element signature="e#1501#2142#0" />
+                <element signature="e#2148#3324#0" />
+                <element signature="e#3330#3853#0" />
+                <element signature="e#67348#67548#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LeetCode200.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -78,20 +59,6 @@
                 <caret column="14" selection-start-column="14" selection-end-column="14" />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SortStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#poj3250#0;class#SortStack#0" />
-                <element signature="method#poj3494#0;class#SortStack#0" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -106,9 +73,18 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ListNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Greedy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="831">
+            <state relative-caret-position="1584">
               <caret line="74" selection-start-line="74" selection-end-line="74" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -130,7 +106,7 @@
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="682">
-              <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -234,14 +210,15 @@
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -249,10 +226,16 @@
               <item name="solution" type="b2602c69:ProjectViewProjectNode" />
               <item name="solution" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="solution" type="b2602c69:ProjectViewProjectNode" />
+              <item name="solution" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -437,18 +420,37 @@
       <workItem from="1560651981118" duration="57556000" />
       <workItem from="1560920176696" duration="13327000" />
       <workItem from="1561014166030" duration="6387000" />
-      <workItem from="1561382602653" duration="1008000" />
+      <workItem from="1561382602653" duration="1786000" />
+      <workItem from="1561446706698" duration="38000" />
+      <workItem from="1561513591377" duration="1385000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1561383633732</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1561383633732</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="457153000" />
+    <option name="totallyTimeSpent" value="459354000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49729145" visible="true" weight="0.20309168" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49729145" visible="true" weight="0.20735608" />
       <window_info id="Structure" order="1" sideWeight="0.50270855" side_tool="true" weight="0.19669509" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -456,19 +458,19 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" sideWeight="0.50270855" side_tool="true" weight="0.19669509" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4989339" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.4989339" weight="0.32936078" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48294243" weight="0.32827735" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.48027718" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5170576" side_tool="true" weight="0.32827735" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49413645" weight="0.32936078" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Alipay DevTools" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32936078" />
       <window_info anchor="bottom" id="Duplicates" order="14" sideWeight="0.49946696" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -516,6 +518,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -832,6 +838,12 @@
           <properties />
           <option name="timeStamp" value="262" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/LeetCode100.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/LeetCode100.java</url>
           <line>611</line>
@@ -1008,13 +1020,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/myArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -1053,10 +1058,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/DP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2596">
+          <caret line="118" column="9" selection-start-line="118" selection-start-column="9" selection-end-line="118" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SortStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#poj3250#0;class#SortStack#0" />
+            <element signature="method#poj3494#0;class#SortStack#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Greedy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/KMP.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -1077,27 +1118,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Greedy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="831">
-          <caret line="74" selection-start-line="74" selection-end-line="74" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="971">
-          <caret line="118" column="9" lean-forward="true" selection-start-line="118" selection-start-column="9" selection-end-line="118" selection-end-column="9" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="14" selection-start-column="14" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -1108,60 +1135,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortStack.java">
+    <entry file="file://$PROJECT_DIR$/src/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#poj3250#0;class#SortStack#0" />
-            <element signature="method#poj3494#0;class#SortStack#0" />
-          </folding>
+        <state relative-caret-position="220">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LeetCode100.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="2280" lean-forward="true" selection-start-line="2280" selection-end-line="2280" />
+        <state relative-caret-position="506">
+          <caret line="142" column="16" lean-forward="true" selection-start-line="142" selection-start-column="16" selection-end-line="142" selection-end-column="16" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#55971#56843#0" />
-            <element signature="e#56849#57332#0" />
-            <element signature="e#57763#58460#0" />
-            <element signature="e#58466#59028#0" />
-            <element signature="e#59034#59584#0" />
-            <element signature="e#59590#60150#0" />
-            <element signature="e#60156#60650#0" />
-            <element signature="e#60656#60878#0" />
-            <element signature="e#60936#61174#0" />
-            <element signature="e#61180#61707#0" />
-            <element signature="e#61713#62562#0" />
-            <element signature="e#62568#63122#0" />
-            <element signature="e#63128#63308#0" />
-            <element signature="e#63314#63864#0" />
-            <element signature="e#63869#64051#0" />
-            <element signature="e#64056#64270#0" />
-            <element signature="e#64275#64440#0" />
-            <element signature="e#64446#65528#0" />
-            <element signature="e#64629#64691#1" />
-            <element signature="e#64728#65500#1" />
-            <element signature="e#65617#65993#0" />
-            <element signature="e#65999#66965#0" />
-            <element signature="e#66972#67308#0" />
-            <element signature="e#67113#67122#0" expanded="true" />
-            <element signature="e#67313#67513#0" />
+            <element signature="e#86#542#0" />
+            <element signature="e#548#1495#0" />
+            <element signature="e#1501#2142#0" />
+            <element signature="e#2148#3324#0" />
+            <element signature="e#3330#3853#0" />
+            <element signature="e#67348#67548#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="14" selection-start-column="14" selection-end-column="14" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/LeetCode200.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
         </state>
       </provider>
     </entry>

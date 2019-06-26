@@ -2278,6 +2278,33 @@ public class LeetCode100 {
     }
 
     //99 恢复二叉搜索树
+    List<Integer> num = new ArrayList<>();
+    int index = 0;
+    public void recoverTree(TreeNode root){
+        travel(root);
+        Collections.sort(num);
+        setNode(root);
+    }
+    private  void travel(TreeNode root){
+        if(root==null) return ;
+        travel(root.left);
+        num.add(root.val);
+        travel(root.right);
+    }
+    private void setNode(TreeNode root){
+        if(root==null) return;
+        setNode(root.left);
+        root.val = num.get(index ++);
+        setNode(root.right);
+    }
+
+    //100 相同的树
+    public boolean isSameTree(TreeNode p,TreeNode q){
+        if(p==null&&q==null) return true;
+        if((p!=null&&q==null)|| (p==null&&q!=null)|| p.val!=q.val) return false;
+
+        return isSameTree(p.left,q.left)&&isSameTree(p.right,q.right);
+    }
 
 }
 
